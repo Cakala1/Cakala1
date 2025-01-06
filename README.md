@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **mateusz.cakalaa@gmail.com**
 
-<h3 align="left">Connect with me: **mateusz.cakalaa@gmail.com**</h3>
 <p align="left">
 </p>
 
