@@ -7,10 +7,6 @@
 
 - 🔭 I’m currently working on [my chess engine in C](https://github.com/Cakala1/ChessEngine)
 
-- 🌱 I’m currently learning **Angular**
-
-- 📫 How to reach me **mateusz.cakalaa@gmail.com**
-
 <p align="left">
 </p>
 
